@@ -36,7 +36,7 @@ window.KATALOG = {
     eposta: "bilgi@atolyenova.com.tr",
     adres: "Örnek Mah. Mobilyacılar Cad. No: 12, İnegöl / Bursa",
     paraBirimi: "₺",
-    kapakResim: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1600&q=75&auto=format&fit=crop",   // Karşılama alanındaki büyük fotoğraf
+    kapakResim: "https://images.unsplash.com/photo-1762320893556-71850b0e0f57?w=1600&q=75&auto=format&fit=crop",   // Karşılama alanındaki büyük fotoğraf
 
     /* Firma belgeleri — "Hakkımızda" bölümünde gösterilir.
        Belgenin taranmış halini resimler klasörüne koyup resim alanına yazın. */
