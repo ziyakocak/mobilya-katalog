@@ -1,0 +1,2 @@
+Ürün fotoğraflarını ve taranmış belgeleri (ISO vb.) bu klasöre koyun.
+Sonra urunler.js içinde ilgili satıra şöyle yazın:  resim: "resimler/dosya-adi.jpg",

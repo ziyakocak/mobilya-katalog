@@ -1,0 +1,35 @@
+MOBİLYA KATALOĞU — NASIL KULLANILIR?
+====================================
+
+SİTEYİ AÇMAK
+  index.html dosyasına çift tıklayın.
+  Örnek ürün fotoğrafları internetten (Unsplash) gelir; internet yoksa
+  fotoğraf yerine çizim görünür. Kendi fotoğraflarınızı resimler
+  klasörüne koyduğunuzda internet gerekmez.
+  Sağ üstteki güneş/ay düğmesiyle açık ve koyu mod arasında geçebilirsiniz.
+
+İÇERİĞİ DEĞİŞTİRMEK
+  Tüm yazılar, ürünler, belgeler ve KVKK metni "urunler.js" dosyasındadır.
+  1. urunler.js dosyasına sağ tıklayın > "Birlikte aç" > Not Defteri.
+  2. Değişikliği yapın ve kaydedin (Ctrl+S).
+  3. Tarayıcıda sayfayı yenileyin (F5).
+
+  Dosyanın en üstünde kuralların kısa açıklaması var.
+  Sayfada kırmızı bir "urunler.js okunamadı" uyarısı görürseniz, son
+  değişiklikte bir virgül, tırnak ya da parantez eksik kalmıştır.
+
+FOTOĞRAF EKLEMEK
+  1. Fotoğrafı "resimler" klasörüne koyun. Dosya adında Türkçe karakter
+     ve boşluk kullanmamaya çalışın (ör: chester-koltuk.jpg).
+  2. urunler.js içinde ilgili ürünün satırını şöyle yapın:
+       resim: "resimler/chester-koltuk.jpg",
+  Belgeler (ISO vb.) için de aynısı geçerlidir.
+
+YENİ ÜRÜN EKLEMEK
+  urunler.js içindeki bir ürünü { ile başlayıp }, ile biten haliyle
+  kopyalayıp listenin içine yapıştırın, bilgilerini değiştirin.
+
+DİKKAT
+  Firma adı, telefon, WhatsApp numarası, adres, belge numaraları ve KVKK
+  metni şu anda ÖRNEKTİR. Gerçek bilgilerinizle değiştirin. KVKK metnini
+  bir hukukçuya kontrol ettirmeniz önerilir.
